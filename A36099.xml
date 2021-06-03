@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Discourse of schism for the benefit of humble Christians</title>
+         </titleStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36099</idno><idno type="EEBO-CITATION">11080994</idno>
+  <idno type="VID">46293</idno>
+  <idno type="EEBO-PROQUEST">2264174528</idno>
+  
+            <idno type="STC">Wing D1602</idno>
+            <idno type="STC">ESTC R29366</idno>
+            <idno type="OCLC">11080994</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46293)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1422:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Discourse of schism for the benefit of humble Christians</title>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for W. Crook,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Controversial literature.</term>
+               <term type="topical_term">Schism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:46293:1"/>
+            <p>LICENS'D,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Novemb.</hi> 27. 1689.</date>
+               </dateline>
+               <signed>
+                  <hi>J.</hi> F.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:46293:1"/>
+            <p>A DISCOURSE OF SCHISM FOR THE BENEFIT OF HUMBLE CHRISTIANS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. Crook</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:46293:2"/>
+            <pb n="1" facs="tcp:46293:2"/>
+            <head>A DISCOURSE OF Schism, &amp;c.</head>
+            <p>WHEN the Devil tempted our bles<g ref="char:EOLhyphen"/>sed Lord to turn the stone into bread, our Lord defended himself against the Temptation with a Text of Scripture,<note place="margin">Mat. 4.4.</note>
+               <hi>Man shall not live by bread alone.</hi> The Devil presently thinks he may make as bold with the holy Scripture as our Saviour: And tempting him, after that, to cast himself from the Pinacle, he gives him a Text of Scripture for his security,<note place="margin">Ps. 91.11.</note>
+               <hi>He shall give his Angels a charge concerning thee.</hi> From which insolence of the Devil, Christian People may, if they will, make
+<pb n="2" facs="tcp:46293:3"/>the advantage to learn and understand so much that the Devil and his active Ministers, the Mini<g ref="char:EOLhyphen"/>sters of Heresie and uncharitable Schism, will be bold to make use of the Scriptures, for Reasons well known to himself, and not unknown to the Church of Christ neither:<note place="margin">2 Cor. 2.11.</note> As St. <hi>Paul</hi> saith, <hi>For we are not ignorant of his devices.</hi>
+            </p>
+            <p>Namely, in the first place, to distract us in our apprehensions of the Truth, because one saith, This Opinion is Truth, and brings a Scripture for it. And another saith, This Opinion, quite contrary, is Truth; and brings a Scripture for it: Therefore we should be willing to conclude, That there is no certainty in any thing: and that to trouble our selves any further about Religion or Truth, is but lost Labour. Upon which account the Devil hath brought too many to put that very question in moc<g ref="char:EOLhyphen"/>kery,<note place="margin">Joh. 18.38.</note> which <hi>Pilate</hi> did: <hi>What is Truth?</hi> As who should say, Who can tell what it is, or where it is?</p>
+            <p>If the Devil by this device can bring men to que<g ref="char:EOLhyphen"/>stion the reality of Religion, he hath gain'd a great point against Heaven, and the Salvation of the Souls of men. And to the great grief of many good Ministers, and many other good Christians, he hath gain'd the point: so far, That from the ill use of Scripture made either by proud and ignorant men, or by deceitful and malicious men, too ma<g ref="char:EOLhyphen"/>ny are content to lay aside the common regard of Religion. But I hope a seasonable Admonition, if it doth not restrain the one from perverse teaching, yet may inform the other, <hi>That an enemy hath done
+<pb n="3" facs="tcp:46293:3"/>this:</hi> And that it is a most inexcusable weakness to gratifie that Enemy, by playing into his hand, and to cast away the care of their own Souls, that he may boast the success of his design against their Souls.</p>
+            <p>Another bad End for which the Devil by per<g ref="char:EOLhyphen"/>verse Teachers maketh use of Scripture, is to bring us into a mistrust or neglect of the Scriptures, be<g ref="char:EOLhyphen"/>cause both sides of the Controversie defend them<g ref="char:EOLhyphen"/>selves by the Scriptures, and yet both sides cannot be in the right; therefore to conclude, that there is no great heed to be given to them. That seeing there is so much confusion by wrangling out of the Scriptures, therefore we may permit the Bible to rest upon our shelves, or close the Book, and give it again to the Minister, as the Church of <hi>Rome</hi> wou'd have it. But notwithstanding the whole Plea, of the Papists, it is plainly ridiculous to affirm, That good Books must be seal'd up, because bad men oftentimes abuse a good Author: especially such a Book, which is of such general and necessary use to the whole World, to all sorts and conditions of men, and in those things which are of greater concernment to them, than all the World. The ill use which some make of it, can never balance the common benefit, no more than if we should con<g ref="char:EOLhyphen"/>clude, That a River which runs continually to the great advantage of the whole Country, must be dryed up, because now and then a mischance hap<g ref="char:EOLhyphen"/>pens by it. But if a man cast himself in wilfully beyond his depth, and be lost: certainly the ad<g ref="char:EOLhyphen"/>vantage of the <hi>constant Stream</hi> is much more to be
+<pb n="4" facs="tcp:46293:4"/>valued than such a Loss: And no man can hurt himself by reading the Scriptures, but 'tis his own fault, and most commonly his pride. But on the other side, no words can express the large benefit which all good Christians receive by this daily Ex<g ref="char:EOLhyphen"/>ercise of reading the Scriptures; I may say, both good Christians and bad: For as the good are daily improv'd, so by the same Divine Word, the bad are oftentimes reform'd. And indeed for this end from Heaven God hath sent us these his lively Ora<g ref="char:EOLhyphen"/>cles, and committed them to our Trust, not that common Christians should wrangle out of them: For this is indeed <hi>profaning of that which is Holy;</hi> but, as <hi>David</hi> did, That they should with humi<g ref="char:EOLhyphen"/>lity, and a full sense of God's favour in bestowing such a Treasure on them, meditate in them all the days of their lives.</p>
+            <p>Another bad End for which the Devil doth abuse the Scripture, and us, by misapplication, is to bring us into Errour of Practice: And how the Devil hath made use of evil men, to abuse both themselves and the Scriptures unto this evil end, our former unhappy Times, did sufficiently testifie. When all manner of Uncleanness was justified, not by those who confess themselves slaves to their Con<g ref="char:EOLhyphen"/>cupiscence, but by those who pretended to Perfe<g ref="char:EOLhyphen"/>ction and Seraphic attainments in Religion; because the Scripture saith, but never spake it for them, <hi>That there is nothing common or unclean;</hi> and, <hi>To the pure all things are pure.</hi>
+            </p>
+            <p>But because the Devil is so busie, and so fortu<g ref="char:EOLhyphen"/>nate in perverting men by the Agency of false
+<pb n="5" facs="tcp:46293:4"/>Teachers, it is needful, for us to learn what ad<g ref="char:EOLhyphen"/>vantages he must have over us to deceive us. Now one great advantage he has, if he find us faulty in Practice: And how many have there been a<g ref="char:EOLhyphen"/>mong us, who having lived ignorantly and care<g ref="char:EOLhyphen"/>lesly in the Church of God to such or such an age, on a sudden have been caught away, and beguil'd into perverse Opinions, for no other reason at all, but because they never minded, nor cared to un<g ref="char:EOLhyphen"/>derstand that blessed Religion whereinto they were baptized, nor to live worthy of it in a sober and humble Conversation. According to that Prophecy of St. <hi>Paul, Because they received not the love of the Truth, that they might be saved,</hi>
+               <note place="margin">2 Thess. 2.10.</note>
+               <hi>for this cause God shall send them strong delusions, that they should be<g ref="char:EOLhyphen"/>lieve a Lye.</hi> They had received the Truth, and were baptized into it, but they never set their affe<g ref="char:EOLhyphen"/>ctions on it: Therefore Delusion seizeth them be<g ref="char:EOLhyphen"/>fore they are aware: And in God's severe but most just Judgment, they become zealous for a Lye, be<g ref="char:EOLhyphen"/>cause they were not zealous and servent in the Truth. And the Apostle gives the same reason, why many, upon his own uncomfortable Observation, <hi>had made shipwrack of their Faith,</hi> namely,<note place="margin">1 Tim. 1.19.</note> because before that, they had made shipwrack of a good Conscience. And, as I hinted before, 'tis true e<g ref="char:EOLhyphen"/>nough among our selves, that there are many, who either wanting good Education, or not wanting ill Examples, instead of giving heed to the Religion whereinto they were baptized, grow up into an un<g ref="char:EOLhyphen"/>godly and vicious Life, to the shame of all Religion, and to their own. Of these men some make a sud<g ref="char:EOLhyphen"/>den
+<pb n="6" facs="tcp:46293:5"/>change, and strike off into Schism, where per<g ref="char:EOLhyphen"/>haps for a while they behave themselves somewhat more modestly. But tho a conversion from Vice to Virtue, if it be real, is good; yet whatever their conversion be, their manner in it is very bad; while they do both ignorantly and prophanely impute their former ill-living to the barrenness of our Religion, which much more <hi>honestly</hi> should be imputed to the violence of their own evil and untractable Inclinati<g ref="char:EOLhyphen"/>on. For had they duly reflected, as in conscience they were bound, upon their Baptism and their Cate<g ref="char:EOLhyphen"/>chism, upon the Instructions of the one, and the migh<g ref="char:EOLhyphen"/>ty Obligation of the other, they had never needed to strike into any way of Separation, to mend them<g ref="char:EOLhyphen"/>selves, their Faith, or their Conversation. I say it a<g ref="char:EOLhyphen"/>gain; Had they duly apply'd themselves to their Catechism, which tho' it be to teach us when we are young, yet it is also to he constantly and seriously meditated from our youth and upward, and tho' we be never so old. And would Men but humble their soaring Ignorance, to try the Experiment, they should find it much more available unto certainty in Know<g ref="char:EOLhyphen"/>ledge, stability in Faith, and unto a good Life, I say much more available than all the lavish pretences of a Conventicle.</p>
+            <p>Another advantage the Devil hath to seduce us, is, if he find us wavering and indifferent in our Prin<g ref="char:EOLhyphen"/>ciples: That we think we may adventure to go any where, and to hear any thing, upon that com<g ref="char:EOLhyphen"/>mon pretence <hi>of trying all things, and holding fast that which is good;</hi> A Text which the Apostle gave us, not to make us Adventurers, as so many are,
+<pb n="7" facs="tcp:46293:5"/>but to make us afraid of adventuring. But so it is, that by the Fallacy which cunning Men put up<g ref="char:EOLhyphen"/>on us from this wary Text, we boldly venture, and are foolishly ensnar'd: And instead of holding fast that which was very good, we are at last held so fast by that which is evil, that we have no power to deliver our selves. For we may under<g ref="char:EOLhyphen"/>stand, that as in matters of Fact, so in matters of Faith, the Devil proceedeth by degrees, and doth not make us the worst of Men, nor the worst of He<g ref="char:EOLhyphen"/>reticks presently. And so we. may observe him to proceed in our own Church with many, who once did think themselves bound in conscience to keep the Unity of the Church in its Publick Worship.</p>
+            <p>Upon some new thoughts which they take up, they think they may adventure to go to a private Meeting: Yet still keeping some conscience and reverence for the Church of God, because what<g ref="char:EOLhyphen"/>ever Religion they have, from the Church they know that they receiv'd it; and so they divide themselves between the Church and the private Meeting. This is their first step toward Schism: And in them is that Text of St. <hi>James</hi> now fulfilled,<note place="margin">James 1.8.</note>
+               <hi>A double minded Man is unstable in all his ways.</hi>
+            </p>
+            <p>After some time, and by a custom of hearing those that have no kindness for our Church, certain Jealousies and Prejudices are dropt into them, perhaps at first to themselves insensible, and perhaps such against which themselves had resolved: And now they begin to have slight apprehensions of Gods Church, and a great ad<g ref="char:EOLhyphen"/>miration and zeal for private Teachers; and on them they bestow all their attendance, and the
+<pb n="8" facs="tcp:46293:6"/>Church hath lost them. This is their second step towards Schism.</p>
+            <p>Yet still they have so much respect for their Old Religion, and so much fear and tenderness for New Ways, that they will go to no other Teachers but those that hold the Doctrines and Sacraments of the Church. Them they will hear; and for fear of the worst, they resolve to go no farther: But the common Enemy of the Churches Peace is re<g ref="char:EOLhyphen"/>solved otherwise.</p>
+            <p>Therefore, after some longer time they meet with new Solicitations: For there are no Religious Parties but have their Factors to bring in Proselytes: And now they begin to be told, That their new Teach<g ref="char:EOLhyphen"/>ers are almost as bad as their old; and therefore if they will have the true Purity of Religion, they must go farther.</p>
+            <p>And so they go, tho' at first with some reluctancy, to hear what another Faction can say for themselves, and for their renewed Baptism, and for the imme<g ref="char:EOLhyphen"/>diate Calling of their unlearned Teachers: And within a while, by those affectionate Plausibilities with which simple Hearts are deceiv'd, and, as the Apostle saith,<note place="margin">2 Pet. 2.14.</note> unstable Souls beguil'd, they are taken in this Snare too. This is another step which they make in Schism.</p>
+            <p>And now Doctrines, and Sacraments, and Mini<g ref="char:EOLhyphen"/>sters, both Conformist and Non-Conformist, are all Antichristian: And now they are happily come out of <hi>Babylon;</hi> and now they are come to the New <hi>Jerusalem:</hi> Terms, not to say Mysteries, which nei<g ref="char:EOLhyphen"/>ther they, nor their uneducated Teachers under<g ref="char:EOLhyphen"/>stand.
+<pb n="9" facs="tcp:46293:6"/>And now they wonder that they should con<g ref="char:EOLhyphen"/>tinue in ignorance so long; and in their simplicity bless God for the great Light which shineth to them; and now they are at their rest.</p>
+            <p>But not quite at their rest yet. For after some time spent in this new Brotherhood, they are told a<g ref="char:EOLhyphen"/>gain, That they have been hitherto looking after a Christ without them: But if they will come to per<g ref="char:EOLhyphen"/>fection, they must look after a Christ within them; and so they swallow this Bait too. And now all manner of Preaching is but the Teachings of Men, and all outward Sacraments are but Shadows which must vanish away: And the Holy Scripture it self is but a dead Letter. This is another step which they make in their Schism.</p>
+            <p>And by this time Years begin to grow upon them; and upon the whole account they find, that they have made but a small matter of it, and conclude by them<g ref="char:EOLhyphen"/>selves, that others have made as little of it as them<g ref="char:EOLhyphen"/>selves. Since they took their first flight from the Church of God, they can perceive no certainty in Religion; and 'tis a wonder if they should. For <hi>as a Bird that wanders from his Nest,</hi> saith <hi>Solomon,</hi>
+               <note place="margin">Prov. 27.8.</note>
+               <hi>so is a Man that wanders from his place:</hi> And so is a Chri<g ref="char:EOLhyphen"/>stian that wanders from the Church. And we have a wise Proverb of our own, <hi>That a rowling Stone ne<g ref="char:EOLhyphen"/>ver gathers Moss.</hi> Therefore they resolve to make sure of something, and to set themselves close to the Pleasures or Gain of this World, leaving it to their Youngers to follow the chase of Religion, where<g ref="char:EOLhyphen"/>of themselves begin to be weary. So fatal is the E<g ref="char:EOLhyphen"/>vent of wandring from Faction to Faction, and of
+<pb n="10" facs="tcp:46293:7"/>gratifying new Pretenders in their unsound and im<g ref="char:EOLhyphen"/>pertinent Opinions.</p>
+            <p>Another advantage the Devil hath to abuse us into Error, and to make us the froward Instruments of abusing others, if he find us unskilful in the Scrip<g ref="char:EOLhyphen"/>tures: Now there is no other way to be skilful in them, but either by Education and Industry, or by Inspiration; unto which Inspiration, the Apostles of our Lord were beholding for their skill. Therefore if we have not the benefit of Revelation, and I know none that have; for they that pretend most to it, are most certainly farthest from it; But if we have not this extraordinary advantage; to understand the Scriptures, we must be educated to understand them, that is, we must bestow great pains and time, with daily Prayer, in the use of those Means and Helps which are proper for the right understanding of those Sacred Books. Wherefore St. <hi>Paul</hi> gives it in charge to no meaner a Man than <hi>Timothy, To give himself to Reading and Meditation.</hi>
+               <note place="margin">1 Tim. 4.13, 14.</note> And they that have bestow'd most labour with Prayer and Humility, from their youth and forward, have most reason comfortably to expect the Blessing of God upon their labour: For God useth and delighteth to proportion his Blessing to our honest Endeavours. We must therefore take pains to acquaint our selves with the rational part of Learning, for the improvement of our natural Capacity, namely, our Invention and Judgment.</p>
+            <p>For tho' common Education be sufficient to im<g ref="char:EOLhyphen"/>prove our Understanding for the World, that is, for Trade or worldly Dealing: Yet it is not sufficient
+<pb n="11" facs="tcp:46293:7"/>to give us an understanding in those Matters, whe<g ref="char:EOLhyphen"/>ther natural or supernatural, which are separated from the common use of the World: Such as the Scriptures, with the Mysteries therein contain'd, un<g ref="char:EOLhyphen"/>doubtedly are. And therefore to attain a due know<g ref="char:EOLhyphen"/>ledge in <hi>them,</hi> or in other parts of Wisdom of like nature, as <hi>Solomon</hi> tells us,<note place="margin">Prov. 18.1.</note> with the greatest desire and intention of our mind, we also must be <hi>sepa<g ref="char:EOLhyphen"/>rated.</hi>
+            </p>
+            <p>Besides this, great pains is requir'd to understand those Languages wherein the Holy Scriptures were first written, together with those other Languages that have affinity with them; so that by one Lan<g ref="char:EOLhyphen"/>guage, we may improve the knowledge of the o<g ref="char:EOLhyphen"/>ther; and by comparing the one with the other, we may more clearly and readily find out the true mean<g ref="char:EOLhyphen"/>ing of those pieces of Scripture, which without the benefit of such Helps, would certainly remain obscure and unintelligible. For tho' a faithful Translation, as ours is, in the vulgar Tongue, be sufficient for the People, and a great Blessing for them too, to teach them their plain Duty towards God, and the great Mercies and Promises of God toward them: Yet such a Translation is not sufficient for their Teachers, much less for those that take upon them to oppose the Teachers, that take upon them to vent new Doctrines, and to deny received Principles. For see<g ref="char:EOLhyphen"/>ing by these means they endeavour to be counted extraordinary, it is very fitting they should shew something extraordinary; it is very equitably de<g ref="char:EOLhyphen"/>manded of them, either that they shew the Skill of Languages, or the Gift of Languages, because the
+<pb n="12" facs="tcp:46293:8"/>Scriptures are not to be understood, so much as is fitting for a Teacher to understand, without the help of Languages.</p>
+            <p>Besides this, more pains is needful also, to acquaint our selves with the History of the several Ages where<g ref="char:EOLhyphen"/>in the several parts of Scripture were written, to acquaint our selves with the Description of those Pla<g ref="char:EOLhyphen"/>ces and Countries which in the Scriptures are men<g ref="char:EOLhyphen"/>tioned, together with the Manners and Customs of those People and Countries where the Scriptures were written; all which do eminently conduce to illustrate the Scriptures.</p>
+            <p>All these kinds of Knowledge in some good mea<g ref="char:EOLhyphen"/>sure are needful to a Teacher, that he may be a rea<g ref="char:EOLhyphen"/>dy Scribe for the Kingdom of God, able to instruct the People in the Mysteries both of the Old Testa<g ref="char:EOLhyphen"/>ment and the New; and they that too much or altogether want these Helps, or are not capable, for want of a due Education to make use of these Helps, and yet will busie themselves to new model Church, and Scriptures, and Christian Religion, as suteth best to their own bent and humour: These are the unskil<g ref="char:EOLhyphen"/>ful Men over whom the Devil hath advantage, both to seduce them, and to make them his violent In<g ref="char:EOLhyphen"/>struments of seducing others unto perverse Opini<g ref="char:EOLhyphen"/>ons, and proud Contentions against the Church of God: For Knowledge in the Scripture by continued Industry they have not, neither are they ever like to have it, for want of being train'd up unto those o<g ref="char:EOLhyphen"/>ther pieces of useful Knowledge, which are prepara<g ref="char:EOLhyphen"/>tory. And Knowledge by Revelation they have not; if they say they have, it is most certainly a Presumpti<g ref="char:EOLhyphen"/>on,
+<pb n="13" facs="tcp:46293:8"/>on, for which they will give a heavy account, as well as for their holdness in perverting the Scrip<g ref="char:EOLhyphen"/>tures.</p>
+            <p>For unto these are the words of St. <hi>Peter</hi> to be apply'd,<note place="margin">2 Pet. 3.16.</note> where speaking of some difficult places in St. <hi>Pauls</hi> Epistles, he tells us, That <hi>they that are un<g ref="char:EOLhyphen"/>learned and unstable do wrest them, and other Scrip<g ref="char:EOLhyphen"/>tures, to their own destruction;</hi> and not undeservedly, because they wrest them to the destruction of <hi>others.</hi> And tho' they tell us, that St. <hi>Peter</hi> doth not mean what we call Learning, and that he himself in that sense was an unlearned Man; they are plainly mi<g ref="char:EOLhyphen"/>staken: For he doth certainly mean the want of that which we call Learning; and he himself was a learn<g ref="char:EOLhyphen"/>ed Man, tho' not by the same means, yet in the same sense, which we call Learning; not when he was a Fisher-man, but after the Ascension of our Lord, and the coming of the Holy Ghost, when He and his Fellow-Apostles received power to publish the Gos<g ref="char:EOLhyphen"/>pel to the World; only with this difference, That they received this vast Learning by present Inspira<g ref="char:EOLhyphen"/>tion, and we attain it in slower and shorter measures, by industry and pains-taking. But the very same Learning it is in them and in us, and wanting in those who now falsly pretend the Gifts of Apostleship; the very same Abilities of Invention, and Judgment, and Languages, in the Apostles and in us, but in them much more enlarged, without which them<g ref="char:EOLhyphen"/>selves had not been able either to publish the Go<g ref="char:EOLhyphen"/>spel or to interpret the Scriptures.</p>
+            <p>Another great advantage the Devil hath over us, if he perceive us to be Men of vehement Passions,
+<pb n="14" facs="tcp:46293:9"/>and thereby rash and inconsiderate, forward and credulous. For very true it is, tho' we think, and would perswade our selves, that we go by our Rea<g ref="char:EOLhyphen"/>son; yet the greatest part of the World are guided by their Passions, and in matters of Religion too.</p>
+            <p>Hence it is, that many are carried off out of a Contempt, or Prejudice, or Revenge against their Minister, because he hath shun'd to comply with their Vices; or because he hath hapned to give them some cause or other of offence. For a Minister may be over-taken with a fault as well as others, tho' they ought, because they are strictly commanded to be <hi>Ensamples to the Flock,</hi>
+               <note place="margin">1 Pet. 5.3.</note> to take <hi>more care</hi> than others. Yet this private offence from the Minister, whether just or unjust, is a very unjustifiable cause of forsaking the Church, because we have much greater Reasons to keep the Unity of Christ's Church, than we can have not to pardon our Minister. The Prophet speaks it very plainly,<note place="margin">Mal. 2.7.</note> As the Priests lips are to preserve knowledge, so the People are to seek the Law or Rule of their Religion from his mouth, because he is the Messenger of God to the people. But then in the mean time, how uncom<g ref="char:EOLhyphen"/>fortable do those Ministers live among their people, who make it the work and the design of their whole lives to teach and instruct their people, both old and young: And yet in many places neither old nor young will give their Attendance, or but very thin and slenderly. I shall say no more of it but this, That every <hi>good</hi> Christian, I should think, could not chuse but be very tender of grieving his
+<pb n="15" facs="tcp:46293:9"/>Minister in those things which so nearly concern the comfort of his Office, and their own eternal Benefit. And let me add further: As it cannot be expected, that so many thousand Parishes, as are within our own Church of <hi>England,</hi> should be sup<g ref="char:EOLhyphen"/>plied with men of great Abilities; so we are to know, that the Church hath sufficiently provided for every mans Salvation, with his own faithful en<g ref="char:EOLhyphen"/>deavour. And if the Minister of every Parish, tho' he have not those Abilities which beget admiration and applause, do honestly discharge his Duty, in performing all the parts of his <hi>publick</hi> Ministery, and <hi>private</hi> Admonition. And if the people, being con<g ref="char:EOLhyphen"/>vinced of the Truth of Christian Religion, and the ne<g ref="char:EOLhyphen"/>cessity of it to their Salvation, will, with an humble and an earnest mind, apply themselves to receive and lay up in their hearts all those Gospel-Instructions provided for them in the several parts of our pub<g ref="char:EOLhyphen"/>lick Worship; I may be bold to say, it is impossi<g ref="char:EOLhyphen"/>ble, by the Grace of God, that any one Soul in any one Parish should miss of Salvation. But here is the great fault, the Sun doth not want light, and the Church doth not want the means of Salvation; but we want hearts to make use of the means: And the blame most uncharitably is mis-laid upon the Church. Blessed be God, we have the means: But as the slothful Servant suffer'd his Talent to lye dead in his Napkin, so the means of Grave lye dead by us, and we lye dead by them. The ill-living of a Minister, as it is too severely objected, so it must not be denied to be a great Prejudice upon the People, because it is so directly contrary to the
+<pb n="16" facs="tcp:46293:10"/>design of the Gospel, to the Nature of Religion, and to every good Word which proceeds out of their own mouths from the Pulpit. And therefore if any such there be, by all the Powers of their Religion, and by the Zeal and Tenderness and Love which they profess to their own Church, and for the amendment of their own Accounts in the Day of Judgment, if I could, I would oblige them to cut off this occasion presently from those that are too forward to seek, and too glad to find the oc<g ref="char:EOLhyphen"/>casion, that they may insult over our Reproach. But he is a wise Christian that will distinguish be<g ref="char:EOLhyphen"/>tween the Office and Infirmities of a Minister, and will not be so unnatural to forsake the Church of his Education, and the Christian Fellowship of his Brethren, for the faults of any particular Ministers in the Church. And if they will be so restless as to double their own Condemnation, however he shall receive a double Reward, both for being and living like a Christian, and also for overcoming the Scandal with a true Christian Spirit. He is a wise Christian that will consider, and they that are most uncharitable to make the Objection against us, should wisely consider it, That if any of their di<g ref="char:EOLhyphen"/>viding Parties were grown into the same bulk, they would be found guilty of the same faults, perhaps of greater. There is History for it, which I for<g ref="char:EOLhyphen"/>bear upon choice, because it becomes us to be ten<g ref="char:EOLhyphen"/>der of reflecting, when we are willing to have our own faults cover'd.<note place="margin">2 Tim. 2.10.</note>
+               <hi>In a great House,</hi> saith St. <hi>Paul,</hi> his meaning is, in a great Church, <hi>there art not only Vessels of gold and silver, but also of wood and stone,
+<pb n="17" facs="tcp:46293:10"/>some to honour, and some to dishonour.</hi> And in a Church of so great extent as ours, it ought not to be an occasion of Reviling, or Separation, that such offen<g ref="char:EOLhyphen"/>ces are among us; but rather of Admiration and Thanksgiving unto God, that the Offences are no greater. So much the more, when we may be assur'd, That God hath much more kindness for his People, than to take away his Presence, Spirit, and Blessing from his <hi>own</hi> Ministery and Sacraments, in <hi>their</hi> due attendance on them, for any personal blemishes or offences in the Minister. It is the plea<g ref="char:EOLhyphen"/>sure of God, that the Treasure of his Gospel and Sacraments should be committed into <hi>earthen Vessels.</hi>
+               <note place="margin">2 Cor. 4.7.</note> And if his People will not be perverse in their own wrong, they shall be sure of that Treasure, tho' the Vessel crack and perish.</p>
+            <p>But to proceed. Many are carried off from the Communion of our Church out of a willingness to comply with, or a fear to disoblige greater persons fallen into the same Perswasion, on whom they have a wonted dependance. Many out of hopes of improving their Interest and Trade, because they have no other way of livelihood but Trading, and no other way to get into Trade but by Interest. Many of discontent, because they are disappointed of their worldly expectation, or preferment.</p>
+            <p>Now tho' these and such like Passions and irregu<g ref="char:EOLhyphen"/>lar Humors be the first and certain Causes of our falling into Schism, yet this is not to be confess'd, because there are other fair pretences, tho' but pre<g ref="char:EOLhyphen"/>tences,
+<pb n="18" facs="tcp:46293:11"/>to hide the true Reason: And the true Rea<g ref="char:EOLhyphen"/>son is not the best Reason; therefore it must be conceal'd. For tho' men are mightily carried by their Passions, and love to be sway'd by them, both in Religious matters, and other matters too; yet their Reason tells them, that they should not be moved by such Springs. And therefore tho' a Pas<g ref="char:EOLhyphen"/>sion were the first Cause of forsaking the Church, yet they reserve so much respect for their Reason and for Themselves, as not to yield that they go by any meaner Rule, being bashful to think that they should shew themselves guilty of so great an Infir<g ref="char:EOLhyphen"/>mity: Yea undoubtedly many of them are so over<g ref="char:EOLhyphen"/>come by their own Passions, that they verily think their Passion to be Reason. For Passion hath confi<g ref="char:EOLhyphen"/>dence enough to call it self Reason.</p>
+            <p>Now if upon the Evidence of what hath been dis<g ref="char:EOLhyphen"/>coursed, we are willing to resist the enticement of private Teachers, and to keep the Unity of a well-ordered Church, for the present Security of it and of our selve, and which is highly to be valued, for the preservation also of a sober and a sound Religion to our Posterity, by following this plain Advice, we shall not only be willing, but able to defend our selves.</p>
+            <p>In the first place, let us never give present Assent to any new Opinion that pretends Scripture. It was the Commendation of the <hi>Beraeans,</hi> That they <hi>searched the Scripture daily,</hi>
+               <note place="margin">Act. 17.11.</note> that is, diligently, whe<g ref="char:EOLhyphen"/>ther those things were so, whether the Doctrine de<g ref="char:EOLhyphen"/>liver'd
+<pb n="19" facs="tcp:46293:11"/>by St. <hi>Paul</hi> concerning Jesus Christ, were in<g ref="char:EOLhyphen"/>deed agreeable to the Scriptures. And much more reasonably have we need to examine those new Do<g ref="char:EOLhyphen"/>ctrines which are impos'd upon Christian People by private Teachers, who by no other advantage can put off their adulterate Coyn, their unfound Opi<g ref="char:EOLhyphen"/>nions, but by an ignorant Confidence in themselves, and an ignorant Easiness in the People. Certainly it was good Counsel which was given by St. <hi>John, Beloved, believe not every Spirit.</hi>
+               <note place="margin">1 Joh. 4.1.</note> And how much then do they forget themselves, that will believe every Spirit, and suffer themselves to be carried about with every blast of new Doctrine?</p>
+            <p>Let us be sure to keep our selves humble. 'Tis a very great word from the mouth of our Saviour, <hi>Whosoever shall humhle himself as a Child, the same is</hi> greatest <hi>in the Kingdom of Heaven.</hi>
+               <note place="margin">Mat. 18.4.</note> There is no<g ref="char:EOLhyphen"/>thing like this to keep us in the right way.<note place="margin">Rom. 12.16. ver. 3.</note>
+               <hi>Be not wise,</hi> saith St. <hi>Paul, in your own Conceits. Let no man think of himself more highly than he ought to think, but let him think soberly.</hi> Do not think of your selves above your Education. Do not think that you know more than those who have taken much more likely pains to gain knowledge: And for this good End, That in an orderly way they might be able to instruct Christian People, whose private Callings and manner of Life, require them to be<g ref="char:EOLhyphen"/>stow the greatest part of their time in other lawful Labours. Remember the words of St. <hi>Paul, If any man think that he knoweth any thing,</hi>
+               <note place="margin">1 Cor. 8.2.</note>
+               <hi>he knoweth no<g ref="char:EOLhyphen"/>thing yet as he ought.</hi>
+            </p>
+            <pb n="20" facs="tcp:46293:12"/>
+            <p> Let us be sure to yield Obedience with an honest heart to the plain Precepts of our Religion. The words of our Lord are greatly to be observed,<note place="margin">Joh. 7.17.</note>
+               <hi>If any Man will do his Will, he shall know of the Doctrine, whether it be of God, or whether I speak of my self:</hi> And therefore, how can those Men justify themselves who begin all their Reformation and Religiousness with the transgression of plain Commandments, with most unchristian Prejudices against their law<g ref="char:EOLhyphen"/>ful and laborious Pastors, and I might call it, with a proud contempt of many good Christians? Whose Society in Religion they have forsaken, as thinking themselves too holy for so general a Communion.</p>
+            <p>Lastly, Let us take continual pains to settle and confirm our selves in the plain Principles of our Re<g ref="char:EOLhyphen"/>ligion. They are the uncatechized Christians that are so easie to receive every new Impression, because they have no Foundation in themselves whereon to build a good Resolution; whereas, if we would by frequent Meditation throughly digest the great Mysteries of Christianity, which we have receiv'd, and do con<g ref="char:EOLhyphen"/>fess, we should quickly find so much evidence and certainty in our own Religion, as to despise the child<g ref="char:EOLhyphen"/>ishness and foppery of new Pretenders. We shou'd be so well stock'd with Principles of sound Faith, and by those Principles so powerfully obliged to a good Life, as to see it a very needless thing to look out any further, and should have an innocent boldness to tell seducing Teachers, That they may very well spare their busy Labours.</p>
+            <pb n="21" facs="tcp:46293:12"/>
+            <p> And whatever our worldly occasions necessarily are, we may find time enough, if we will not bestow it worse, to search into our Religion. In the inter<g ref="char:EOLhyphen"/>vals of your Trade, when you are resting at home in the Evening, when you are in your Bed, and your Sleep goes from you, you may sometimes take your Baptism into your Meditation, and examine what great Mercies from Heaven God hath bestow'd up<g ref="char:EOLhyphen"/>on you in your participation of that great Sacra<g ref="char:EOLhyphen"/>ment; And what great Obligations are upon you by your Baptism, and by the abundant Mercy of God toward you therein: That therein you are made Members of Christ's mystical Body, and a<g ref="char:EOLhyphen"/>dopted to be the Children of God; and if Children, Heirs. And that now in gratitude, you can do no less than conform your selves, as obedient Children, to the Will of your Heavenly Father, that you may not receive your Baptism and all the Grace of it in vain.</p>
+            <p>Sometimes you may take your Creed, or some part of it at a time, for your Meditation, and begin with one Article after another, and tell your selves what your own great Faith is, namely, That you do believe in the living and true God who made Heaven and Earth, That you believe that blessed Jesus to be your Saviour, who was conceived by the Holy Ghost, and born of the blessed Virgin <hi>Mary,</hi> That you do be<g ref="char:EOLhyphen"/>lieve he died, and rose again for the Redemption of Mankind, That you believe he visibly ascended into Heaven, and now sitteth to be your effectual Inter<g ref="char:EOLhyphen"/>cessor at the right Hand of God, That you believe
+<pb n="22" facs="tcp:46293:13"/>he will come again to judge the World, and therefore will prepare your self all days of your Life, that you may be found at his right hand; That you believe in the Holy Ghost, and that God hath given him in<g ref="char:EOLhyphen"/>deed to you, to be your great Comforter and Con<g ref="char:EOLhyphen"/>duct through all the difficulties of this present Life; That you believe the Holy Catholick Church, and therefore will never break off from it to any private Faction; That you believe the Communion of Saints, and therefore will live in all manner of holy Conver<g ref="char:EOLhyphen"/>sation, worthy of so blessed, so heavenly a Commu<g ref="char:EOLhyphen"/>nion; That you believe the forgiveness of Sins, through the mercy of God in Jesus Christ, to the un<g ref="char:EOLhyphen"/>speakable comfort of your penitent Soul; That you believe the Resurrection of your Body out of the Grave, with the happy exchange of Incorruption and Glory, for all the present blemishes of Mortality; And as the Crown of all, That you believe everlast<g ref="char:EOLhyphen"/>ing Life in everlasting Happiness, which God most as<g ref="char:EOLhyphen"/>suredly hath promis'd, and the heart of man can<g ref="char:EOLhyphen"/>not at present conceive.</p>
+            <p>And in these Meditations abide for some time, and stick upon every one of these great Mysteries, and bring them over and over again into your minds, that you may more and more increase your own Understand<g ref="char:EOLhyphen"/>ing in them, and more and more confirm your Faith of them.</p>
+            <p>And if you have not leisure enough to meditate on all these at once, begin where you left off at your next leisure; and reckon upon it, That the Sacra<g ref="char:EOLhyphen"/>ments
+<pb n="23" facs="tcp:46293:13"/>and your Creed, your Duty to God and your Duty to your Neighbour, are to be the constant Sub<g ref="char:EOLhyphen"/>ject of your Meditations all your Life long; The wholesome Diet on which your mind must feed, the daily Bread which must nourish your Souls to eternal Life.</p>
+            <p>If Christians will be persuaded to exercise their thoughts diligently in these things, it will make them, that they shall be much more able to instruct and convince the Teachers of Division, than to need any new Instructions from them.</p>
+            <p>Now the God of Peace who delighteth in the Order and Unity of his Church, even as a Father in the Concord of his Family, direct all our Hearts into one common Fellowship of Faith and Worship, as we are all redeemed and called by one common Sa<g ref="char:EOLhyphen"/>viour, our Lord Jesus Christ, unto one Hope of eternal Glory.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:46293:14"/>
+            <head>Books Printed for and Sold by <hi>W. Crook</hi> at the <hi>Green Dragon</hi> without <hi>Temple-Bar.</hi>
+            </head>
+            <list>
+               <item>1. MR. <hi>Chillingworth</hi>'s Protestant Religion a safe way to Salvation. <hi>Folio.</hi>
+               </item>
+               <item>2. Mr. <hi>Chillingworth</hi> made more generally useful; by Mr. <hi>P.</hi> with some Additions. <hi>Quarto.</hi>
+               </item>
+               <item>3. Mr. <hi>Manynham</hi>'s six Sermons on publick Oc<g ref="char:EOLhyphen"/>casions. <hi>Quarto.</hi>
+               </item>
+               <item>4. Mr. <hi>Manyngham</hi>'s two Discourses. <hi>Octavo.</hi>
+               </item>
+               <item>5. <hi>Kitchin</hi>'s Jurisdiction of Court Leets and Court Barons. <hi>Octavo.</hi>
+               </item>
+               <item>6. <hi>Clark</hi>'s <hi>Praxis Curiae Admiralitatis. Octavo.</hi>
+               </item>
+               <item>7. <hi>Hubert</hi>'s Reports in English. <hi>Folio.</hi>
+               </item>
+               <item>8. <hi>Cokes</hi> Institutes, second, third, and fourth Parts. <hi>Folio.</hi>
+               </item>
+               <item>9. <hi>Officina Brevium,</hi> approved Forms of Judicial Writs. <hi>Folio.</hi>
+               </item>
+               <item>10. A Dialogue betwixt a Philosopher and a Stu<g ref="char:EOLhyphen"/>dent, about the Common Laws of <hi>England,</hi> by <hi>Tho. Hobbs</hi> of <hi>Malmsbury. Octavo.</hi>
+               </item>
+               <item>11. Compleat Clerk. <hi>Quarto.</hi>
+               </item>
+               <item>12. Lord Keeper <hi>Littleton</hi>'s Reports. <hi>Folio.</hi>
+               </item>
+               <item>13. Compleat Sollicitor, Entring Clerk, and Attor<g ref="char:EOLhyphen"/>ney
+<pb facs="tcp:46293:14"/>fully instructed in the Practice and Methods of Clerkship. <hi>Octavo.</hi>
+               </item>
+               <item>14. Lord Chief Justice <hi>Saunders</hi> his Reports: in 2 Vol. <hi>Folio.</hi>
+               </item>
+               <item>15. A new Book of Declarations and Pleadings Ge<g ref="char:EOLhyphen"/>neral and Special, <hi>&amp;c.</hi> with Appeals of Murther, by <hi>Jo. Hansand,</hi> Gent. <hi>Folio.</hi>
+               </item>
+               <item>16. Two Dialogues of the Laws of <hi>England</hi> com<g ref="char:EOLhyphen"/>monly known by the Doctor and Student. <hi>Octavo.</hi>
+               </item>
+               <item>17. A new <hi>Natura Brevium;</hi> by <hi>Antho. Fitzherbert. Octavo.</hi>
+               </item>
+               <item>18. <hi>Keilaway</hi>'s Reports with References to all the Modern Law-Books, together with the choice Cases of <hi>Bendlo</hi> and <hi>Dallison. Fol.</hi>
+               </item>
+               <item>19. <hi>Wingate</hi>'s Abridgment of all the Statutes in Force from <hi>Magna Charta</hi> to 1689.</item>
+               <item>20. <hi>Howel</hi>'s General History of the World. <hi>Fol.</hi>
+               </item>
+               <item>21. <hi>Scarron</hi>'s Comical Romance, an Historical and Pleasant Account of Stage-players. <hi>Fol.</hi>
+               </item>
+               <item>22. The Transactions of the House of Peers con<g ref="char:EOLhyphen"/>cerning the Popish Plot in 1678. and 1689. <hi>Octavo.</hi>
+               </item>
+               <item>23. A Copy of the Journals of the Commons in 1678. and 1679. <hi>Octavo.</hi>
+               </item>
+               <item>24. Megalopsichy, being an Account of the last seventeen years of Queen <hi>Elizabeth</hi>'s Reign. <hi>Fol.</hi>
+               </item>
+               <item>25. <hi>Buccanier</hi>'s of <hi>America,</hi> in 2 Vol. <hi>Quarto.</hi>
+               </item>
+               <item>26. Connexion, being a Collection of some Mat<g ref="char:EOLhyphen"/>ters in King <hi>James</hi> the First his Time. <hi>Octavo.</hi>
+               </item>
+               <item>27. Historians Guide, or <hi>Britain</hi>'s Remembrancer, <hi>&amp;c. Twelves.</hi>
+               </item>
+               <item>28. <hi>Homers Iliads</hi> and <hi>Odysses</hi> translated into Eng<g ref="char:EOLhyphen"/>lish; by <hi>Tho. Hobbs. Twelves.</hi>
+               </item>
+               <pb facs="tcp:46293:15"/>
+               <item> 29. Mr. <hi>Hobbs</hi> his four Tracts. <hi>Octavo.</hi>
+               </item>
+               <item>30. Mr. <hi>Hobbs</hi>'s <hi>Behemoth;</hi> or, The Civil Wars of <hi>England. Octavo.</hi>
+               </item>
+               <item>31. Mr. <hi>Chamberlain</hi>'s <hi>Compendium Geographicum,</hi> or an Easie Introduction to Geography. <hi>Twelves.</hi>
+               </item>
+               <item>32. The Court of Curiosity, being the best Book of Dreams and Fortune-teller that's in English <hi>Octavo.</hi>
+               </item>
+               <item>33. Mr. <hi>Hugh</hi>'s Compleat Vineyard and Flower-Garden. <hi>Twelves.</hi>
+               </item>
+               <item>34. A Modern View of <hi>Europe. Octavo.</hi> New.</item>
+               <item>35. The Present State of the Jews. <hi>Twelves.</hi>
+               </item>
+               <item>36. The first State of Mahumetism. <hi>Octavo.</hi> New.</item>
+               <item>37. <hi>Peppa,</hi> a new Novel with the Songs exactly set to two Voices. <hi>Twelves.</hi> New.</item>
+               <item>38. <hi>Britain</hi>'s Glory, and <hi>England</hi>'s Bravery, where<g ref="char:EOLhyphen"/>in is shewn all the Degrees of Honour from the Prince to the Peasant, <hi>&amp;c. Twelves.</hi> New.</item>
+               <item>39. The Family-Herbal, shewing how to pre<g ref="char:EOLhyphen"/>serve Health, and prolong Life, <hi>&amp;c. Twelves.</hi>
+               </item>
+               <item>40. A Discourse of Prayer; by Mr. <hi>Gilb. Budgel,</hi> Rector of <hi>Symondsbury, Dorsetshire, Quarto.</hi> New.</item>
+               <item>41. The Doctrine of Passive Obedience in a Ser<g ref="char:EOLhyphen"/>mon on the 30. of <hi>January;</hi> by <hi>J. Ellesby,</hi> Vicar of <hi>Chiswick. Quarto.</hi>
+               </item>
+               <item>42. A Discourse about Conscience relating to both Extremes of Popery and Fanaticism, Price 6<hi> d. Quarto.</hi>
+               </item>
+               <item>43. A Sermon preached at the <hi>Savoy</hi> in French; by Monsieur <hi>Des Escotais,</hi> now printed in French and English. <hi>Twelves.</hi>
+               </item>
+               <item>44. <hi>H. Grotius</hi>'s Catechism, Greek, Latine, and English, with a Praxis to all the Greek Words there<g ref="char:EOLhyphen"/>in. <hi>Octavo.</hi>
+               </item>
+               <pb facs="tcp:46293:15"/>
+               <item> 45. The Spirit of Prophecy, proving that Christ and his Apostles were Prophets: Written by <hi>W. Howel</hi> of <hi>Fittleworth</hi> in <hi>Sussex,</hi> recommended to the Press by Dr. <hi>Gunning,</hi> late Bishop of <hi>Ely. Octavo.</hi>
+               </item>
+               <item>46. The King-killing Doctrine of the Jesuits, in a sincere Discourse to the French King; by a Roman Catholick Gentleman. <hi>Quarto.</hi>
+               </item>
+               <item>47. A modest Plea for the Clergy of the Church of <hi>England,</hi> wherein is considered the Reasons why they are Contemned: Written by Dr. <hi>Addison</hi> Dean of <hi>Litchfield. Octavo.</hi> Price 18 <hi>d.</hi>
+               </item>
+               <item>48. An Introduction to the Holy Sacrament, or a short, plain, and safe Way to the Communion-Ta<g ref="char:EOLhyphen"/>ble, being Instructions for the worthy receiving of the Lord's Supper, collected for, and familiarly ad<g ref="char:EOLhyphen"/>dressed to every particular Communicant: To which is added the Communicants Assistant, being a Colle<g ref="char:EOLhyphen"/>ction of Devotions to be used before, at, and after the receiving the Holy Sacrament; by Dr. <hi>Addison,</hi> Dean of <hi>Litchfield,</hi> Price bound 1 <hi>s.</hi> This Book is also bound up with Common Prayer Books of several bindings, by <hi>W. Crook.</hi>
+               </item>
+               <item>49. The Duty and Benefit of frequent Commu<g ref="char:EOLhyphen"/>nion; by <hi>W. Lightenhouse,</hi> late Fellow of <hi>Lincoln</hi>-Colledge <hi>Oxon.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>50. Moral Instructions of a Father to his Son, up<g ref="char:EOLhyphen"/>on his taking a long Voyage. <hi>Twelves.</hi> Price bound 1 <hi>s.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
